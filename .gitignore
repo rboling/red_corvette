@@ -1,0 +1,5 @@
+*.gem
+config/database.yml
+plan.txt
+tmp/cache/assets/*
+log/*.log
